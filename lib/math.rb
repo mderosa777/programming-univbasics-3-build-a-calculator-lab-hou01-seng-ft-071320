@@ -42,7 +42,7 @@ end
 def square_root(num)
   puts "i got#{num1}"
 puts "i got#{num2}"
-sum = num1 Math.sin (num2)
+sum =  Math.sin (num1)
 puts "i got #{sum}"
 sum 
 
