@@ -40,10 +40,7 @@ sum
 end
 
 def square_root(num)
-  puts "i got#{num1}"
-puts "i got#{num2}"
-sum =  Math.sin(num1)
-puts "i got #{sum}"
-sum 
+  puts Math.sqrt(num)
+ 
 
 end
