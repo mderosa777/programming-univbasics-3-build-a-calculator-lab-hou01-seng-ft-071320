@@ -40,7 +40,10 @@ sum
 end
 
 def square_root(num)
-  puts Math.sqrt(num)
+  puts"igot #{num}" 
+  sum = Math.sqrt(num)
+  sum
+  
  
 
 end
